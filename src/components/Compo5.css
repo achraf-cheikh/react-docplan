@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap");
+
+.com5 div {
+  margin-top: 80px;
+}
+
+.com5 div h1 {
+  color: #00b39b;
+  font-family: "work sans", Arial, sans-serif;
+  font-size: 30px;
+  line-height: 39px;
+  text-align: center;
+  font-weight: 300;
+}
+.com5 p {
+  color: #747474;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  width: 460px;
+  height: 72px;
+  margin-top: 30px;
+  margin-left: 442px;
+}

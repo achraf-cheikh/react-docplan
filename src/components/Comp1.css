@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap");
+
+.compodiv {
+  margin-top: 100px;
+}
+.h1div {
+  width: 975px;
+  height: 45px;
+  text-align: center;
+  font-size: 34px;
+  color: #00b39b;
+  margin-top: 50px;
+  margin-left: 200px;
+  font-family: "work sans", Arial, sans-serif;
+  font-weight: 300;
+}
+
+.paradiv {
+  display: flex;
+  justify-content: center;
+  margin-left: -50px;
+  margin-top: 50px;
+  align-items: start;
+}
+.paradiv p {
+  width: 478px;
+  height: 112px;
+  line-height: 28px;
+  margin-left: 20px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  text-align: start;
+  color: #747474;
+}

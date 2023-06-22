@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap");
+
+.bigdiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  height: 70px;
+  z-index: 5;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.imglog {
+  height: 33px;
+  width: 268px;
+  margin-left: 200px;
+}
+#collasible-nav-dropdown {
+  margin-right: 200px;
+  color: #ababab;
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+}
+#collasible-nav-dropdow:hover {
+  color: #00b39b;
+}

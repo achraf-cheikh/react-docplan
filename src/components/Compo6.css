@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap");
+
+.carddiv {
+  width: 1055px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  margin-top: 50px;
+  margin-left: 180px;
+}
+
+.cardd {
+  width: 310px;
+  height: 362px;
+  margin-bottom: 50px;
+  margin-right: 20px;
+  border: solid #faf9f9;
+}
+.cardd:hover {
+  box-shadow: 11px 31px 138px -43px rgba(0, 0, 0, 0.48);
+  -webkit-box-shadow: 11px 31px 138px -43px rgba(0, 0, 0, 0.48);
+  -moz-box-shadow: 11px 31px 138px -43px rgba(0, 0, 0, 0.48);
+  cursor: pointer;
+}
+
+.body-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tit {
+  color: #747474;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.btn {
+  width: 103px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 10px;
+  line-height: 10px;
+  font-weight: 700;
+}
