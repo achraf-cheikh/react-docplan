@@ -4,6 +4,9 @@
 .compo4-bigdiv {
   background-image: url(https://media.discordapp.net/attachments/1093497830917816403/1108684129622564955/Sans_titre-2.png?width=1025&height=323);
   width: 1350px;
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: -250px;
   height: 600px;
   display: flex;
   justify-content: space-evenly;
